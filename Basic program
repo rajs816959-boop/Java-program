@@ -1,0 +1,7 @@
+class A
+{
+public static void main(Strung []args)
+{
+int x=20;
+system.out.println(×);
+}}
